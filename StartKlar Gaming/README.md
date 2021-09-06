@@ -1,4 +1,4 @@
 # Instructions
 
-- télécharger le fichier
+- télécharger le fichier "install-choco-script.bat"
 - Éxécuter en tant qu'administrateur
