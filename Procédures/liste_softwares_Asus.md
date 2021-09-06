@@ -5,6 +5,7 @@
 - FileViewPro (Ouvrez directement n'importe quel type de fichier)
 - Glary Utilities (The No. 1 Free, Powerful and All-in-one utility for cleaning your PC)
 - SD Card Formatter (format SD Memory Card, SDHC Memory Card and SDXC Memory Card complying with the SD File System Specification created by the SD Association)
+- Total Commander (Gestionnaire de fichiers Partagiciel pour Windows)
 
 ## HDD/SSD
 - EaseUS Data Recovery Wizard (quick but complete file recovery from Windows desktops, laptops, and other Windows-compatible devices)
