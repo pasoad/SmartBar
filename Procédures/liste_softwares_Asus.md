@@ -25,4 +25,4 @@
 
 ## GPS
 - Gramin Express (Enregistrez votre appareil, mettez facilement à jour les cartes et logiciels, synchronisez votre appareil avec Garmin Connect™)
-- 
+- TomTom MyDrive Connect (Mettez votre GPS TomTom à jour)
