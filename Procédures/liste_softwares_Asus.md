@@ -28,3 +28,5 @@
 ## GPS
 - Gramin Express (Enregistrez votre appareil, mettez facilement à jour les cartes et logiciels, synchronisez votre appareil avec Garmin Connect™)
 - TomTom MyDrive Connect (Mettez votre GPS TomTom à jour)
+
+<img src="https://red.mediamarkt.at/bilder/landingpage/STARTKLAR/smartbar_header2.jpg" width="50%" height="50%">
