@@ -13,6 +13,7 @@
 - AOMEI Partition Assistant (Logiciel de partition de disque gratuit pour un usage domestique et personnel)
 - IM-Magic Partition Resizer (Redistribute, copy, resize, move, convert and more)
 - Macrium Reflect 7 (Free is the best no-cost solution on the market)
+- MiniTool Partition Wizard (All-in-one Disk Partition Manager)
 
 ## Smartphones
 - 4MeKey (Remove Activation Lock for iOS Device)
