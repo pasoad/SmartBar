@@ -1,3 +1,5 @@
+<img src="https://red.mediamarkt.at/bilder/landingpage/STARTKLAR/smartbar_header2.jpg" width="100%" height="100%">
+
 ## Utilitaires
 - 7-Zip (file archiver with a high compression ratio)
 - Balena Etcher (Flash OS images to SD cards & USB drives, safely and easily)
@@ -28,5 +30,3 @@
 ## GPS
 - Gramin Express (Enregistrez votre appareil, mettez facilement à jour les cartes et logiciels, synchronisez votre appareil avec Garmin Connect™)
 - TomTom MyDrive Connect (Mettez votre GPS TomTom à jour)
-
-<img src="https://red.mediamarkt.at/bilder/landingpage/STARTKLAR/smartbar_header2.jpg" width="50%" height="50%">
