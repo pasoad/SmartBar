@@ -12,6 +12,7 @@
 - EaseUS Partition Master (Partition recovery software. It supports FAT, NTFS, Ext2 and Ext3 volumes in Windows)
 - AOMEI Partition Assistant (Logiciel de partition de disque gratuit pour un usage domestique et personnel)
 - IM-Magic Partition Resizer (Redistribute, copy, resize, move, convert and more)
+- Macrium Reflect 7 (Free is the best no-cost solution on the market)
 
 ## Smartphones
 - 4MeKey (Remove Activation Lock for iOS Device)
