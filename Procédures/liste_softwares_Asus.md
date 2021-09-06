@@ -20,7 +20,7 @@
 - HUAWEI HiSuite (The Smart Way to Manage Your Huawei device)
 - iTunes (Gestion des sauvegardes iOS)
 - Smart Switch (Samsung Smart Switch seamlessly transfers contacts, photos, music, videos, messages, notes, calendars and more to virtually any Samsung Galaxy device)
-- Wodershare MobileTrans (MobileTrans Un Clic Transfert Téléphone vers Téléphone)
+- Wondershare MobileTrans (MobileTrans Un Clic Transfert Téléphone vers Téléphone)
 
 ## Calibrage
 - Calman for Business (calibrate and validate displays)
